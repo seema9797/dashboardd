@@ -1,0 +1,7 @@
+.gridd {
+    display: flex;
+    text-align: left;
+}
+.gridd > p {
+    padding-top: 5px;
+}
